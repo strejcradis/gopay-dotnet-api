@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
 	<metadata>
-		<id>GoPay.NET NetStandard</id>
+		<id>GoPay.NetStandard</id>
 		<version>1.1.14</version>
 		<authors>Tomas Ivanic, Frantisek Sichinger, Ludovit Scholtz</authors>
 		<owners>Scholtz &amp; Company jsa</owners>
